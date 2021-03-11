@@ -1,3 +1,2 @@
 # DEMO
-This is a demo repository.
-This is a demo commit.
+This is a demo repository
