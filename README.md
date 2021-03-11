@@ -1,3 +1,2 @@
 # DEMO
-This is a demo repository.
-Hii i am kishan patel.
+This is a demo repository
